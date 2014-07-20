@@ -1,0 +1,1 @@
+Tryapp2::Application.config.secret_key_base = 'bc18c2b092efbbfdbc23538d221bb079b004bafe1149506a45b2e92c687127ea00daf359147eaa5a129347792f7fdbe73b7b323e9dc3e6eebac978781e1a2c432'
